@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Santosa",
+      "alamat": "Tangerang Selatan",
+      "umur": 31,
+      "telepon": "081211161817"
+    },
+    {
+      "id": 2,
+      "nama": "Wahidin",
+      "alamat": "Jonggol",
+      "umur": 35,
+      "telepon": "081313351649"
+    },
+    {
+      "id": 3,
+      "nama": "Kodir",
+      "alamat": "Pemanukan",
+      "umur": 33,
+      "telepon": "081314151617"
+    },
+    {
+      "id": 4,
+      "nama": "Sukirman",
+      "alamat": "Tegal",
+      "umur": 29,
+      "telepon": "081314144552"
+    },
+    {
+      "id": 5,
+      "nama": "Warto",
+      "alamat": "Pemanukan",
+      "umur": 33,
+      "telepon": "081314151617"
+    },
+    {
+      "id": 6,
+      "nama": "Dayat",
+      "alamat": "Aceh",
+      "umur": 30,
+      "telepon": "081211545179"
+    },
+    {
+      "id": 7,
+      "nama": "Selamet",
+      "alamat": "Pemalang",
+      "umur": 36,
+      "telepon": "081314193457"
+    },
+    {
+      "id": 8,
+      "nama": "Suwito",
+      "alamat": "Magetan",
+      "umur": 34,
+      "telepon": "081256337643"
+    },
+    {
+      "id": 9,
+      "nama": "Asko",
+      "alamat": "Bumiayu",
+      "umur": 26,
+      "telepon": "081376237677"
+    },
+    {
+      "id": 10,
+      "nama": "Togar",
+      "alamat": "Medan",
+      "umur": 28,
+      "telepon": "081366337973"
+    },
+    {
+      "id": 11,
+      "nama": "Artan",
+      "alamat": "Bandung",
+      "umur": 33,
+      "telepon": "081257544237"
+    },
+    {
+      "id": 12,
+      "nama": "Roni",
+      "alamat": "Pontianak",
+      "umur": 31,
+      "telepon": "081223444758"
+    }
+  ]
+}
